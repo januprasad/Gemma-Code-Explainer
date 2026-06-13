@@ -1,0 +1,6 @@
+{
+  "name": "Gemma Code Explainer",
+  "description": "Gemma-powered intelligent code summarizer and explanations tool designed for developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
